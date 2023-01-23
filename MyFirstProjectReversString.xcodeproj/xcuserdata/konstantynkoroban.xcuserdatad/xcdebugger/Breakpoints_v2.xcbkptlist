@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "889C66DC-33D8-4A15-BCCB-EAB56DCD7E92"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F17E1A4-7DF3-4551-8FF2-180EFCF91473"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ReverserUITests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4F17E1A4-7DF3-4551-8FF2-180EFCF91473 - ea4af4f4f503e2bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "4F17E1A4-7DF3-4551-8FF2-180EFCF91473 - e1717a2a15e0f618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "4F17E1A4-7DF3-4551-8FF2-180EFCF91473 - 662a66da2303d6fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.__allocating_init(selector: ObjectiveC.Selector) -&gt; MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "4F17E1A4-7DF3-4551-8FF2-180EFCF91473 - c843965142638078"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.init(selector: ObjectiveC.Selector) -&gt; MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "4F17E1A4-7DF3-4551-8FF2-180EFCF91473 - e2ba767bfe899f35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.__allocating_init() -&gt; MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "4F17E1A4-7DF3-4551-8FF2-180EFCF91473 - 28df44f7e4dbd8ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.init() -&gt; MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "4F17E1A4-7DF3-4551-8FF2-180EFCF91473 - b97ff64492a24638"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.__deallocating_deinit"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50D05E03-F99D-4BD6-8FE6-67BE6F86798B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "testReverseTwoWords()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "50D05E03-F99D-4BD6-8FE6-67BE6F86798B - 6a96a83b80905365"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.testExample() -&gt; ()"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "50D05E03-F99D-4BD6-8FE6-67BE6F86798B - 6a96a83b80905365"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.testExample() -&gt; ()"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "50D05E03-F99D-4BD6-8FE6-67BE6F86798B - 6a96a83b8090546d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFirstProjectReversStringUITests.MyFirstProjectReversStringUITests.testExample() -&gt; ()"
+                  moduleName = "MyFirstProjectReversStringUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/konstantynkoroban/Desktop/FoxMinded%20GitLab/MyFirstProjectReversString/MyFirstProjectReversStringUITests/MyFirstProjectReversStringUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6CA3A00-46C7-4DEE-B2D2-8E12AD61EA97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFirstProjectReversString/ReverseUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ReverseUnitTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A90F08D-01A2-47BF-8A1E-E308B6E000C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFirstProjectReversString/Tests/ReverseUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09A0A0CB-67E0-4C9A-95FA-AE028BA48E28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReverseUITests/ReverseUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "testCustomExclusionSymbols()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
